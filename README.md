@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalux21
-- I am a Photographer and Web Designer
+- I am a photographer and designer
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Javascript
 - 📫 davidelucifora1@gmail.com
